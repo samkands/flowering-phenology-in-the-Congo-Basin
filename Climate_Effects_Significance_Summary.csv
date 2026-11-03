@@ -1,0 +1,16 @@
+Site,Metric,Term,Estimate,StdError,PValue,Lower,Upper,Significance,SigLabel,LabelText
+Luki,Flowering Onset,Temperature (Z),21.4188,9.2826,0.02103,3.224904,39.612696,Significant,*,β = 21.42*
+Luki,Flowering Onset,Precipitation (Z),4.627,8.9034,0.60328,-12.823664,22.077664,Non-significant,,β = 4.63
+Luki,Flowering Onset,Temperature x Precipitation,30.3277,17.7961,0.08835,-4.552656,65.208056,Marginally significant,,β = 30.33†
+Luki,Flowering End Date,Temperature (Z),3.0707,6.1094,0.61524,-8.903724,15.045124,Non-significant,,β = 3.07
+Luki,Flowering End Date,Precipitation (Z),5.6206,5.8689,0.33822,-5.882444,17.123644,Non-significant,,β = 5.62
+Luki,Flowering End Date,Temperature x Precipitation,21.3541,11.7156,0.06835,-1.608476,44.316676,Marginally significant,,β = 21.35†
+Luki,Flowering Duration,Temperature (Z),-17.0588,4.9075,0.0005088,-26.6775,-7.4401,Significant,***,β = -17.06***
+Luki,Flowering Duration,Precipitation (Z),1.1005,4.8468,0.8203771,-8.399228,10.600228,Non-significant,,β = 1.10
+Yangambi,Flowering Onset,Temperature (Z),-6.3817,6.3386,0.314,-18.805356,6.041956,Non-significant,,β = -6.38
+Yangambi,Flowering Onset,Precipitation (Z),1.4552,6.9058,0.8331,-12.080168,14.990568,Non-significant,,β = 1.46
+Yangambi,Flowering End Date,Temperature (Z),0.13951,4.75712,0.9766,-9.1844452,9.4634652,Non-significant,,β = 0.14
+Yangambi,Flowering End Date,Precipitation (Z),-0.1248,4.2185,0.9764,-8.39306,8.14346,Non-significant,,β = -0.12
+Yangambi,Flowering End Date,Temperature x Precipitation,0.68032,4.43438,0.8781,-8.0110648,9.3717048,Non-significant,,β = 0.68
+Yangambi,Flowering Duration,Temperature (Z),6.5289,4.0963,0.111,-1.499848,14.557648,Non-significant,,β = 6.53
+Yangambi,Flowering Duration,Precipitation (Z),-2.0809,4.4248,0.6382,-10.753508,6.591708,Non-significant,,β = -2.08
